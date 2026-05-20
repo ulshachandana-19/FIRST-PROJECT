@@ -1,3 +1,3 @@
 # FIRST-PROJECT
 This is my first Git Repository.
-Author - Chandana Ulsha
+Author - Chandana Ulsha (My Name)
